@@ -40,10 +40,10 @@ openssl s_client -servername myioteventhub.azure-devices.net -connect myiotevent
 Fingerprint Format: 9C:46:08:5D:55:5C:F7:83:79:0A:03:BD:DE:F4:54:F2:C9:E6:FF:9C
 
 **IOT Hub : Send Device Event Https Post API**
-POST https://fully-qualified-iothubname.azure-devices.net/devices/{id}/messages/events?api-version=2020-03-13
+* POST https://fully-qualified-iothubname.azure-devices.net/devices/{id}/messages/events?api-version=2020-03-13
 
 **Microsoft Reference Used:**
-*https://docs.microsoft.com/en-us/rest/api/iothub/device/senddeviceevent
-*https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-connectivity#code-try-4
+* https://docs.microsoft.com/en-us/rest/api/iothub/device/senddeviceevent
+* https://docs.microsoft.com/en-us/azure/iot-hub/tutorial-connectivity#code-try-4
 
 

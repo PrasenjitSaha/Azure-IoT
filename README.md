@@ -25,8 +25,8 @@ Below are the details -
  2. Add Device from IoT Devices section
 
 **Azure Cloud Shell SAS Generation**
-az iot hub generate-sas-token --device-id {YourDeviceID} --hub-name {YourIoTHubName}
-Example:  az iot hub generate-sas-token --device-id esp8266 --hub-name myioteventhub
+- az iot hub generate-sas-token --device-id {YourDeviceID} --hub-name {YourIoTHubName}
+- Example:  az iot hub generate-sas-token --device-id esp8266 --hub-name myioteventhub
  
 
 **Fingerprint Generation**

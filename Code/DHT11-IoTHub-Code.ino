@@ -14,7 +14,7 @@ const char* password = "WifiPassword";
 const String AzureIoTHubURI="https://{iothubname}.azure-devices.net/devices/{id}/messages/events?api-version=2020-03-13"; 
 //openssl s_client -servername myioteventhub.azure-devices.net -connect myioteventhub.azure-devices.net:443 | openssl x509 -fingerprint -noout //
 const String AzureIoTHubFingerPrint="{YourGeneratedFingerPrint}"; 
-//az iot hub generate-sas-token --device-id MyTestDevice --hub-name {YourIoTHubName} 
+//az iot hub generate-sas-token --device-id {YourIoTDeviceId} --hub-name {YourIoTHubName} 
 const String AzureIoTHubAuth="{SAS Token}";
 
 #define DHTTYPE DHT11  

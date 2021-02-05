@@ -4,10 +4,10 @@
 Below are the details -
 
 **Hardware**
-1.	NodeMCU 8266
-![NodeMCU 8266](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Introduction-to-NodeMCU-V3-2-1.png)
-2.	DHT11 Temperature & Humidity sensor 
-![DHT11](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/DHT11%E2%80%93Temperature-Sensor-Pinout.jpg)
+1.	NodeMCU 8266 <br/>
+<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Introduction-to-NodeMCU-V3-2-1.png" width="400" height="300" />
+2.	DHT11 Temperature & Humidity sensor <br/>
+<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/DHT11%E2%80%93Temperature-Sensor-Pinout.jpg" width="300" height="200" />
 3.	Jumper Wires
 4.	Breadboard 
 5.	USB Cable 

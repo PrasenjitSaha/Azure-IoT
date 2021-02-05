@@ -7,18 +7,18 @@ Below are the details -
 1.	NodeMCU 8266 <br/>
 <img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Introduction-to-NodeMCU-V3-2-1.png" width="400" height="300" />
 2.	DHT11 Temperature & Humidity sensor <br/>
-<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/DHT11%E2%80%93Temperature-Sensor-Pinout.jpg" width="300" height="200" />
-3.	Jumper Wires
-4.	Breadboard 
-5.	USB Cable 
+<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/DHT11%E2%80%93Temperature-Sensor-Pinout.jpg" width="300" height="200" /><br/>
+3.	Jumper Wires<br/>
+4.	Breadboard <br/>
+5.	USB Cable <br/>
 
 **Circuit:**
  ![Circuit Diagram](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Azure%20IoT-Circuit%20Diagram.png)
  
 **Prerequisite Software**
-1.	Arduino IDE
-•	Board Manager esp8266
-•	DHT sensor library – by Adafruit 1.4.1
+  Arduino IDE
+•	Board Manager congigured with esp8266
+•	DHT sensor library(by Adafruit 1.4.1) installation
 
 **Azure IoT Hub Configuration**
  1. Create IoT Hub with F1 Free Pricing

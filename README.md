@@ -1,4 +1,4 @@
-# Azure-IoT-DHT11-ESP8226
+# Azure IoT Experiment with DHT11 & NodeMCU ESP8226
 
 <h1>Objective of this project is to send sensor data to Azure IoT Hub. </h1> <br/>
 

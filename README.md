@@ -2,6 +2,8 @@
 
 Objective of this project is to send sensor data to Azure IoT Hub. <br/>
 
+You can watch my video on YouTube : https://www.youtube.com/watch?v=A0xrhWByCtc
+
 **Architecture**
 ![Arch](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Images/Azure%20IoT-Copy%20of%20Architecture.png)<br/>
 

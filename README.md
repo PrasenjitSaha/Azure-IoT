@@ -37,7 +37,7 @@ openssl s_client -servername {IoT Hub Host Name} -connect { IoT Hub Host Name}:4
 Example:
 openssl s_client -servername myioteventhub.azure-devices.net -connect myioteventhub.azure-devices.net:443 | openssl x509 -fingerprint -noout
  
-Fingerprint Format: 9C:46:08:5D:55:5C:F7:83:79:0A:03:BD:DE:F4:54:F2:C9:E6:FF:9C
+Fingerprint Format: 9S:89:07:5D:55:5C:F7:56:79:0A:03:BD:DE:F4:54:F2:C9:E3:FF:9C
 
 **IOT Hub : Send Device Event Https Post API**
 * POST https://fully-qualified-iothubname.azure-devices.net/devices/{id}/messages/events?api-version=2020-03-13

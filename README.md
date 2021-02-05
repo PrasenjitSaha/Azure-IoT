@@ -1,7 +1,11 @@
 # Azure-IoT-DHT11-ESP8226
 
-<h1>Objective of this project is to send sensor data to Azure IoT Hub. </h1>
-Below are the details -
+<h1>Objective of this project is to send sensor data to Azure IoT Hub. </h1> <br/>
+
+**Architecture**
+![Arch](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Azure%20IoT-Copy%20of%20Architecture.png)<br/>
+
+Below are the details -<br/>
 
 **Hardware**
 1.	NodeMCU 8266 <br/>

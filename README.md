@@ -16,13 +16,13 @@ Below are the details -<br/>
 4.	Breadboard <br/>
 5.	USB Cable <br/>
 
-**Circuit:**
- ![Circuit Diagram](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Azure%20IoT-Circuit%20Diagram.png)
+**Circuit:** <br/>
+ ![Circuit Diagram](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Azure%20IoT-Circuit%20Diagram.png) <br/>
  
-**Prerequisite Software**
-  Arduino IDE
-•	Board Manager congigured with esp8266
-•	DHT sensor library(by Adafruit 1.4.1) installation
+**Prerequisite Software**  <br/>
+•	Arduino IDE <br/>
+•	Board Manager congigured with esp8266  <br/>
+•	DHT sensor library(by Adafruit 1.4.1) installation  <br/>
 
 **Azure IoT Hub Configuration**
  1. Create IoT Hub with F1 Free Pricing

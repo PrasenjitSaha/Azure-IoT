@@ -3,21 +3,21 @@
 Objective of this project is to send sensor data to Azure IoT Hub. <br/>
 
 **Architecture**
-![Arch](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Azure%20IoT-Copy%20of%20Architecture.png)<br/>
+![Arch](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Images/Azure%20IoT-Copy%20of%20Architecture.png)<br/>
 
 Below are the details -<br/>
 
 **Hardware**
 1.	NodeMCU 8266 <br/>
-<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Introduction-to-NodeMCU-V3-2-1.png" width="400" height="300" />
+<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Images/Introduction-to-NodeMCU-V3-2-1.png" width="400" height="300" />
 2.	DHT11 Temperature & Humidity sensor <br/>
-<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/DHT11%E2%80%93Temperature-Sensor-Pinout.jpg" width="300" height="200" /><br/>
+<img src="https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Images/DHT11%E2%80%93Temperature-Sensor-Pinout.jpg" width="300" height="200" /><br/>
 3.	Jumper Wires<br/>
 4.	Breadboard <br/>
 5.	USB Cable <br/>
 
 **Circuit:** <br/>
- ![Circuit Diagram](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Azure%20IoT-Circuit%20Diagram.png) <br/>
+ ![Circuit Diagram](https://github.com/PrasenjitSaha/Azure-IoT-DHT11-ESP8226/blob/main/Images/Azure%20IoT-Circuit%20Diagram.png) <br/>
  
 **Prerequisite Software**  <br/>
 •	Arduino IDE <br/>

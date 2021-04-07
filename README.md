@@ -37,12 +37,13 @@ Below are the details -<br/>
 
 **Fingerprint Generation**
 
-* Download Open SSL binaries from https://slproweb.com/products/Win32OpenSSL.html 
-* Command to generate fingerprint. 
-openssl s_client -servername {IoT Hub Host Name} -connect { IoT Hub Host Name}:443 | openssl x509 -fingerprint -noout
-Example:
-openssl s_client -servername myioteventhub.azure-devices.net -connect myioteventhub.azure-devices.net:443 | openssl x509 -fingerprint -noout
- 
+* Download Open SSL binaries from https://slproweb.com/products/Win32OpenSSL.html <br />
+* Command to generate fingerprint. <br />
+openssl s_client -servername {IoT Hub Host Name} -connect { IoT Hub Host Name}:443 | openssl x509 -fingerprint -noout <br /><br />
+
+Example:<br />
+openssl s_client -servername myioteventhub.azure-devices.net -connect myioteventhub.azure-devices.net:443 | openssl x509 -fingerprint -noout <br />
+<br /> 
 Fingerprint Format: 9S:89:07:5D:55:5C:F7:56:79:0A:03:BD:DE:F4:54:F2:C9:E3:FF:9C
 
 **IOT Hub : Send Device Event Https Post API**

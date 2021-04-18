@@ -36,6 +36,7 @@ Below are the details -<br/>
  
 
 **Fingerprint Generation**
+Youtube Video Link: https://www.youtube.com/watch?v=FbOlSMrM-BE
 
 * Download Open SSL binaries from https://slproweb.com/products/Win32OpenSSL.html <br />
 * Command to generate fingerprint. <br />
